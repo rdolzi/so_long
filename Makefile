@@ -1,6 +1,6 @@
 NAME = so_long
 
-SRCS = main.c \
+SRCS = main1.c \
 
 FLAGS = -Wextra -Werror -Wall
 
