@@ -1,8 +1,0 @@
-
-
-1.Your functions should not quit unexpectedly (segmentation fault, bus error, double
-free, etc) apart from undefined behaviors. 
-
->Undefined behaviors?
-
-
